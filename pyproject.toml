@@ -10,7 +10,7 @@ authors = [
 license = "MIT"
 readme = "README.md"
 homepage = "https://pyvrp.org/"
-repository = "https://github.com/PyVRP/PyVRP"
+repository = "https://github.com/Clayrisee/PyVRP"
 keywords = [
     "vehicle routing problem",
     "hybrid genetic search",
